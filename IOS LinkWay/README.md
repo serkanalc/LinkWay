@@ -7,6 +7,7 @@
 ## Videos: 
 
 - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&t=994s&ab_channel=SeanAllen) (EN)
+- [Swift Optionals - How to Unwrap (real examples)](https://www.youtube.com/watch?v=L3FuDHIv5Ws&ab_channel=SeanAllen) (EN)
 
 
 ## Courses:
