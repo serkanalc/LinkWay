@@ -3,6 +3,7 @@
 ## Docs:
 
 - [The Swift Programming Language Fundamentals](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/) (EN)
+- [Develop apps for iOS](https://developer.apple.com/tutorials/app-dev-training) (EN)
 
 ## Videos: 
 
