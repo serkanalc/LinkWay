@@ -6,6 +6,8 @@
 - [Android Studio kurulum talimatları](https://developer.android.com/studio/install.html) (EN)
 - [Android Studio sürüm notları](https://developer.android.com/studio/releases/index.html) (EN)
 - [Android Studio sorun giderme notları](https://developer.android.com/studio/troubleshoot) (EN)
+- [Meet Android Studio](https://developer.android.com/studio/intro) (EN)
+
 
 ## Courses
 
