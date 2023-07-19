@@ -11,17 +11,15 @@ Whether you're looking for tutorials, documentation, libraries, templates, cheat
 
 ## 🍕 Key features:
 
-✔ **Curated Resources:** The repository is meticulously curated to include top-notch resources that cover a diverse range of programming languages, frameworks, design principles, and more. Each resource is hand-picked based on its quality, relevance, and usefulness.
+- **Curated Resources:** The repository is meticulously curated to include top-notch resources that cover a diverse range of programming languages, frameworks, design principles, and more. Each resource is hand-picked based on its quality, relevance, and usefulness.
 
-✔ **Well-Organized Categories:** The resources are organized into different categories to ensure easy navigation and quick access. You'll find sections dedicated to programming languages, web development, mobile app development, data science, artificial intelligence, UI/UX design, and much more.
+- **Well-Organized Categories:** The resources are organized into different categories to ensure easy navigation and quick access. You'll find sections dedicated to programming languages, web development, mobile app development, data science, artificial intelligence, UI/UX design, and much more.
 
-✔ **Open-Source Contributions:** We believe in the power of collaboration, and we encourage developers like you to contribute to this repository. If you have discovered a fantastic resource or developed a helpful tool, feel free to submit a pull request and share it with the community. Together, we can create an invaluable resource hub.
+- **Open-Source Contributions:** We believe in the power of collaboration, and we encourage developers like you to contribute to this repository. If you have discovered a fantastic resource or developed a helpful tool, feel free to submit a pull request and share it with the community. Together, we can create an invaluable resource hub.
 
-✔ **Regular Updates:** The repository is actively maintained, and new resources are added on a regular basis. You can stay up-to-date with the latest trends, technologies, and best practices by following this repository.
+- **Regular Updates:** The repository is actively maintained, and new resources are added on a regular basis. You can stay up-to-date with the latest trends, technologies, and best practices by following this repository.
 
-✔ **Community-Driven:** This repository is not just about resources; it's about building a thriving community of developers. Join us in discussions, share your insights, and connect with fellow developers who are passionate about learning and growth.
-
-Whether you're looking for tutorials, documentation, libraries, templates, cheat sheets, or any other valuable resource, this repository has got you covered. Explore, learn, and elevate your skills with the LinkWay!
+- **Community-Driven:** This repository is not just about resources; it's about building a thriving community of developers. Join us in discussions, share your insights, and connect with fellow developers who are passionate about learning and growth.
 
 ## ⭐ Find this project useful?
 
