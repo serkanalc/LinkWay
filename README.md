@@ -5,6 +5,9 @@
 ## ✨ Welcome to the LinkWay!
 
 This repository aims to be a comprehensive collection of useful resources for developers, designers, and anyone interested in technology. Whether you're a beginner or an experienced professional, this repository is designed to provide you with a wide range of valuable assets, references, and tools to enhance your skills and streamline your workflow.
+Whether you're looking for tutorials, documentation, libraries, templates, cheat sheets, or any other valuable resource, this repository has got you covered. Explore, learn, and elevate your skills with the Ultimate Resource Repository!
+
+*Note: The resources provided in this repository are for educational purposes and are contributed by the community. Please ensure that you review and comply with the licenses and terms of use associated with each resource before utilizing them in your projects.*
 
 ## 🍕 Key features:
 
