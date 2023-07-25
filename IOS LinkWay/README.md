@@ -1,21 +1,18 @@
 # IOS Development LinkWay
 
-## Docs:
+## Swift LinkWay
 
-- [The Swift Programming Language Fundamentals](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/) (EN)
-- [Develop apps for iOS](https://developer.apple.com/tutorials/app-dev-training) (EN)
-
-## Videos: 
-
-- [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&t=994s&ab_channel=SeanAllen) (EN)
-- [Swift Optionals - How to Unwrap (real examples)](https://www.youtube.com/watch?v=L3FuDHIv5Ws&ab_channel=SeanAllen) (EN)
+This bibliography offers a comprehensive and authoritative collection of resources, including meticulously compiled books, articles, and online courses, to guide everyone from beginners to experienced programmers in effectively learning and mastering the Swift coding language.Check it!
 
 
-## Courses:
+- [📑 The Swift Programming Language - About Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift)
+- [📑 The Swift Programming Language - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)
+- [📑 Swift Language - Apple Developer](https://developer.apple.com/swift/)
+- [📺 Swift in 100 Seconds from Fireship](https://www.youtube.com/watch?v=nAchMctX4YA&ab_channel=Fireship)
+- [📺 Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)
+- [📺 Swift Programming Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=8Xg7E9shq0U&ab_channel=freeCodeCamp.org)
 
-- [Kasım Adalan Udemy Course](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/) (TR)
-- [Atıl Samancıoğlu Udemy Course](https://www.udemy.com/course/ios-gelistirme-kursu/) (TR)
 
-## Channels or Profiles
 
-- [Youtube : Sean Allen](https://www.youtube.com/@seanallen) (EN)
+
+
