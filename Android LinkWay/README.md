@@ -13,6 +13,7 @@ This repository is specifically curated to support Android developers at every s
 |Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)                                                        |30 Min        |All Level  | Serkan Alıç          |
 
 
 ## <a name="co"></a> Courses
