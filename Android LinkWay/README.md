@@ -1,15 +1,27 @@
 # Android Development LinkWay
 
-<h2><img src="https://user-images.githubusercontent.com/70329389/165116263-6cdd1df9-94f7-48e2-85f9-de62e36bb48c.png" width="20px"> Android Studio </h2>
+Welcome to the Android Development LinkWay ✨
 
-- [Android Studio indirme linki](https://developer.android.com/studio/) (EN)
-- [Android Studio kurulum talimatları](https://developer.android.com/studio/install.html) (EN)
-- [Android Studio sürüm notları](https://developer.android.com/studio/releases/index.html) (EN)
-- [Android Studio sorun giderme notları](https://developer.android.com/studio/troubleshoot) (EN)
-- [Meet Android Studio](https://developer.android.com/studio/intro) (EN)
+This repository is specifically curated to support Android developers at every stage of their journey, from beginners taking their first steps to seasoned professionals seeking to expand their knowledge.
+
+[📌 News](#ne) <br>
+[📌 Courses](#co) <br>
 
 
-## Courses
+## <a name="ne"></a> News
 
-- [Kasım Adalan Kotlin Udemy Course](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/) (TR)
-- [Kasım Adalan Java Udemy Course](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/) (TR)
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
+
+
+## <a name="co"></a> Courses
+                                                   
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Google | [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)                                                        |2 Ay        |Beginner  | Serkan Alıç          |
+|TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
+|TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi - Java](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)                                                             |3 Ay           |Beginner | Serkan Alıç          |
+|TR  |🎥     |Kasım Adalan | [Jetpack Compose ile Android Uygulama Geliştirme](https://www.udemy.com/course/jetpack-compose-ile-android-uygulama-gelistirme-kursu/)                                                             |3 Ay           |All Level | Serkan Alıç          |  
+|TR  |🎥     |Atıl Samancıoğlu | [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)                                                             |4 Ay           |Beginner | Serkan Alıç          |
+|TR  |🎥     |Atıl Samancıoğlu | [Android Testing: Unit Tests, Hilt, ViewModels and more!](https://www.udemy.com/course/android-testing/)                                                             |2 Ay           |Medium | Serkan Alıç          |  
