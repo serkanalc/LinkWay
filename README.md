@@ -23,7 +23,7 @@ Whether you're looking for tutorials, documentation, libraries, templates, cheat
 
 ## ⭐ Find this project useful?
 
-If you think it has helped you, you can star this repo and join the [Stargazers](https://github.com/zeynep-duyenli/Algorithm-Samples/stargazers) and motivate us to share similar resources.⭐
+If you think it has helped you, you can star this repo and join the [Stargazers](https://github.com/serkanalc/LinkWay/stargazers) and motivate us to share similar resources.⭐
 
 This repo has been developed on a voluntary basis, so if something is missing or needs to be corrected, please contact the relevant people and let us know and contribute to our arrangement as soon as possible 👍🏻
 
