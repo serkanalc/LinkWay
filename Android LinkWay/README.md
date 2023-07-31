@@ -18,6 +18,7 @@ While some students feel more comfortable progressing from written sources, some
 📑 -> Written source <br>
 🎥 -> Video source <br>
 📝 -> Exercise contents <br>
+👤 -> Profile or Channel <br>
 
 These contents are independent of the curriculum but are contents recommended to be followed along with the curriculum. They are all created by volunteer content producers and continue as open source. Please do not forget to follow and like the producers of the content you do not have difficulty in following and think it is useful.
 
@@ -33,6 +34,15 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Kotlin | [Kotlin Lang](https://kotlinlang.org/)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Kotlin | [Kotlin Lang Docs](https://kotlinlang.org/docs/home.html)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📝     |W3School | [Kotlin Quiz](https://www.w3schools.com/kotlin/kotlin_quiz.php)                                                        |1 Hour        |All Level  | Serkan Alıç          |
+
+## <a name="ne"></a> Profile Or Channels
+
+|Lang|Type  |Resource Platform |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
+|TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |👤     |Github | [Jaewoong Eum Github Profile And Repos](https://github.com/skydoves)                                                        |∞        |All Level  | Serkan Alıç          |
+
 
 
 ## <a name="kf"></a> Kotlin First
