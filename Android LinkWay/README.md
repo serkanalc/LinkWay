@@ -28,7 +28,7 @@ While examining the content, who is responsible for these contents and who recom
 
 ## <a name="ne"></a> News
 
-|Dil|Tür  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Kotlin | [Kotlin Lang](https://kotlinlang.org/)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Kotlin | [Kotlin Lang Docs](https://kotlinlang.org/docs/home.html)                                                        |∞        |All Level  | Serkan Alıç          |
@@ -37,7 +37,7 @@ While examining the content, who is responsible for these contents and who recom
 
 ## <a name="kf"></a> Kotlin First
 
-|Dil|Tür  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)   |30 Min        |All Level  | Serkan Alıç          |
@@ -45,7 +45,7 @@ While examining the content, who is responsible for these contents and who recom
 
 ## <a name="co"></a> Courses
                                                    
-|Dil|Tür  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Google | [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)                                                        |2 Ay        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
