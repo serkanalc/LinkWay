@@ -4,16 +4,24 @@ Welcome to the Android Development LinkWay ✨
 
 This repository is specifically curated to support Android developers at every stage of their journey, from beginners taking their first steps to seasoned professionals seeking to expand their knowledge.
 
-[📌 News](#ne) <br>
-[📌 Courses](#co) <br>
+[📌  What's News](#ne) <br>
+[📌  Kotlin First](#kf) <br>
+[📌  Courses](#co) <br>
 
 
 ## <a name="ne"></a> News
 
 |Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Kotlin | [Kotlin Lang](https://kotlinlang.org/)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |📑     |Kotlin | [Kotlin Lang Docs](https://kotlinlang.org/docs/home.html)                                                        |∞        |All Level  | Serkan Alıç          |
+
+## <a name="kf"></a> Kotlin First
+
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
-|EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)                                                        |30 Min        |All Level  | Serkan Alıç          |
+|EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)   |30 Min        |All Level  | Serkan Alıç          |
 
 
 ## <a name="co"></a> Courses
