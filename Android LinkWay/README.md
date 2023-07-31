@@ -32,6 +32,8 @@ While examining the content, who is responsible for these contents and who recom
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Kotlin | [Kotlin Lang](https://kotlinlang.org/)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Kotlin | [Kotlin Lang Docs](https://kotlinlang.org/docs/home.html)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |📝     |W3School | [Kotlin Quiz](https://www.w3schools.com/kotlin/kotlin_quiz.php)                                                        |1 Hour        |All Level  | Serkan Alıç          |
+
 
 ## <a name="kf"></a> Kotlin First
 
