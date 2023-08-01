@@ -9,6 +9,7 @@ This repository is specifically curated to support Android developers at every s
 [📌  Kotlin First](#kf) <br>
 [📌  Sample Project](#sp) <br>
 [📌  Android Courses](#co) <br>
+[📌  Android Roadmaps](#rm) <br>
 
 ## <a name="cc"></a>Code of Content
 
@@ -20,6 +21,7 @@ While some students feel more comfortable progressing from written sources, some
 🎥 -> Video source <br>
 📝 -> Exercise contents <br>
 👤 -> Profile or Channel <br>
+🗺️ -> Roadmap or Chart <br>
 
 These contents are independent of the curriculum but are contents recommended to be followed along with the curriculum. They are all created by volunteer content producers and continue as open source. Please do not forget to follow and like the producers of the content you do not have difficulty in following and think it is useful.
 
@@ -71,3 +73,10 @@ While examining the content, who is responsible for these contents and who recom
 |TR  |🎥     |Kasım Adalan | [Jetpack Compose ile Android Uygulama Geliştirme](https://www.udemy.com/course/jetpack-compose-ile-android-uygulama-gelistirme-kursu/)                                                             |3 Ay           |All Level | Serkan Alıç          |  
 |TR  |🎥     |Atıl Samancıoğlu | [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)                                                             |4 Ay           |Beginner | Serkan Alıç          |
 |TR  |🎥     |Atıl Samancıoğlu | [Android Testing: Unit Tests, Hilt, ViewModels and more!](https://www.udemy.com/course/android-testing/)                                                             |2 Ay           |Medium | Serkan Alıç          |  
+
+## <a name="rm"></a> Android Roadmaps
+
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |🗺️     |Jaewoong Eum | [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |🗺️     |Roadmap.sh | [Android Developer Complate Roadmap](https://roadmap.sh/android)                                                        |∞        |All Level  | Serkan Alıç          |
