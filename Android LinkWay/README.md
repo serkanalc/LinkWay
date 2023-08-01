@@ -57,7 +57,7 @@ While examining the content, who is responsible for these contents and who recom
                                                    
 |Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
-|EN  |📑     |Google | [Pokedex App with compose](https://github.com/skydoves/Pokedex)                                                        |1 Months        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Jaewoong Eum | [Pokedex App with compose](https://github.com/skydoves/Pokedex)                                                        |1 Months        |Beginner  | Serkan Alıç          |
 
 ## <a name="co"></a> Android Courses
                                                    
