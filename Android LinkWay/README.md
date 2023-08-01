@@ -7,7 +7,11 @@ This repository is specifically curated to support Android developers at every s
 [📌  Code of Content](#cc) <br>
 [📌  What's News](#ne) <br>
 [📌  Kotlin First](#kf) <br>
-[📌  Courses](#co) <br>
+[📌  Sample Project](#sp) <br>
+[📌  Android Courses](#co) <br>
+
+sample project
+
 
 ## <a name="cc"></a>Code of Content
 
@@ -52,8 +56,13 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)   |30 Min        |All Level  | Serkan Alıç          |
 
+## <a name="sp"></a> Sample Project
+                                                   
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Google | [Pokedex App with compose](https://github.com/skydoves/Pokedex)                                                        |1 Months        |Beginner  | Serkan Alıç          |
 
-## <a name="co"></a> Courses
+## <a name="co"></a> Android Courses
                                                    
 |Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
