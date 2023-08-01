@@ -30,6 +30,7 @@ While examining the content, who is responsible for these contents and who recom
 
 |Lang|Type  |Resource Platform |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |👤     |Youtube | [Sean Allen Youtube Channel](https://www.youtube.com/@seanallen)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
 |TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
 
@@ -46,10 +47,9 @@ While examining the content, who is responsible for these contents and who recom
 
 |Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
-|EN  |📑     |Apple | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
-|EN  |📑     |Apple | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Sean Allen | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Sean Allen | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
 |EN  |🎥     |Dr. Angela Yu | [IOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)   |3 Months        |Beginner  | Serkan Alıç          |
-
 |TR  |🎥     |Kasım Adalan | [IOS Mobil Uygulama Geliştirme Eğitimi - Swift](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)   |3 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Atıl Samancıoğlu | [iOS 16 & Swift 5: Başlangıçtan İleri Seviyeye](https://www.udemy.com/course/ios-gelistirme-kursu/)   |3 Months        |Beginner  | Serkan Alıç          |
 
