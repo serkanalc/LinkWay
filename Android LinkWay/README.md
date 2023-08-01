@@ -10,9 +10,6 @@ This repository is specifically curated to support Android developers at every s
 [📌  Sample Project](#sp) <br>
 [📌  Android Courses](#co) <br>
 
-sample project
-
-
 ## <a name="cc"></a>Code of Content
 
 References are formed in sources in different languages, you can continue with the type of content that is most suitable for your progress. It is worth noting that we recommend you to prioritize foreign language sources for the most up-to-date content.
