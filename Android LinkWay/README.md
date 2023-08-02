@@ -45,7 +45,9 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
 |TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |👤     |Github | [Jaewoong Eum Github Profile And Repos](https://github.com/skydoves)                                                        |∞        |All Level  | Serkan Alıç          |
-
+|EN  |👤     |Youtube | [Stevdza-San Youtube Channel](https://www.youtube.com/@StevdzaSan)                                         |∞        |All Level  | Caner Türe          |
+|EN  |👤     |Youtube | [Kotlin by JetBrains Youtube Channel](https://www.youtube.com/@Kotlin)                                     |∞        |All Level  | Caner Türe          |
+|EN  |👤     |Youtube | [Android Developers Youtube Channel](https://www.youtube.com/@AndroidDevelopers/videos)                   |∞        |All Level  | Caner Türe          |
 
 
 ## <a name="kf"></a> Kotlin First
@@ -72,6 +74,7 @@ While examining the content, who is responsible for these contents and who recom
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Jaewoong Eum | [Pokedex App with compose](https://github.com/skydoves/Pokedex)                                                        |1 Months        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Sunflower App](https://github.com/android/sunflower)                                                        |1 Months        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Google | [Now in Android App](https://github.com/android/nowinandroid)                                                        |1 Months        |Intermediate  | Caner Türe          |
 
 ## <a name="co"></a> Android Courses
                                                    
