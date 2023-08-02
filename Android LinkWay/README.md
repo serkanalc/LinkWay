@@ -7,6 +7,7 @@ This repository is specifically curated to support Android developers at every s
 [📌  Code of Content](#cc) <br>
 [📌  What's News](#ne) <br>
 [📌  Kotlin First](#kf) <br>
+[📌  Jetpack Compose](#jc) <br>
 [📌  Sample Project](#sp) <br>
 [📌  Android Courses](#co) <br>
 [📌  Android Roadmaps](#rm) <br>
@@ -68,6 +69,7 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Google | [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)                                                        |2 Ay        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Jetpack Compose for Android Developers Course](https://developer.android.com/courses/jetpack-compose/course)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
+|TR  |📑     |Serkan Alıç | [Compose ile Android Temelleri](https://github.com/serkanalc/Android-Basics-with-Compose-TR)                                                        |2 Months        |Beginner  | Serkan Alıç          |
 |TR  |📑     |Serkan Alıç | [Android Kotlin Fundamentals](https://github.com/serkanalc/Android-Kotlin-Fundamentals)                                                        |2 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi - Java](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)                                                             |3 Ay           |Beginner | Serkan Alıç          |
