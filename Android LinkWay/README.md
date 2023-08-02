@@ -6,6 +6,7 @@ This repository is specifically curated to support Android developers at every s
 
 [📌  Code of Content](#cc) <br>
 [📌  What's News](#ne) <br>
+[📌  Good to Know Tips](#gtk) <br>
 [📌  Kotlin First](#kf) <br>
 [📌  Coroutines](#cr) <br>
 [📌  Sample Project](#sp) <br>
@@ -38,6 +39,12 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Kotlin | [Kotlin Lang](https://kotlinlang.org/)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Kotlin | [Kotlin Lang Docs](https://kotlinlang.org/docs/home.html)                                                        |∞        |All Level  | Serkan Alıç          |
 
+## <a name="gtk"></a> Good to Know Tips
+
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |👤     |Jetbrains | [Free Educational Licenses](https://www.jetbrains.com/community/education/#students)                                                        |∞        |All Level  | Serkan Alıç          |
+
 ## <a name="ne"></a> Profile Or Channels
 
 |Lang|Type  |Resource Platform |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
@@ -58,6 +65,7 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)   |30 Min        |All Level  | Serkan Alıç          |
 |EN  |📑     |Google | [Building a Kotlin extensions library](https://developer.android.com/codelabs/building-kotlin-extensions-library#0)   |1 Months        |Medium  | Serkan Alıç          |
 |EN  |📝     |W3School | [Kotlin Quiz](https://www.w3schools.com/kotlin/kotlin_quiz.php)                                                        |1 Hour        |All Level  | Serkan Alıç          |
+|EN  |📝     |Kotlin | [Why Teach Kotlin](https://kotlinlang.org/education/why-teach-kotlin.html)                                                        |1 Hour        |All Level  | Serkan Alıç          |
 
 
 ## <a name="cr"></a> Coroutines
