@@ -68,11 +68,14 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Google | [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)                                                        |2 Ay        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Jetpack Compose for Android Developers Course](https://developer.android.com/courses/jetpack-compose/course)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
+|TR  |📑     |Serkan Alıç | [Android Kotlin Fundamentals](https://github.com/serkanalc/Android-Kotlin-Fundamentals)                                                        |2 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)                                                        |3 Ay        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [Android Mobil Uygulama Geliştirme Eğitimi - Java](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)                                                             |3 Ay           |Beginner | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [Jetpack Compose ile Android Uygulama Geliştirme](https://www.udemy.com/course/jetpack-compose-ile-android-uygulama-gelistirme-kursu/)                                                             |3 Ay           |All Level | Serkan Alıç          |  
 |TR  |🎥     |Atıl Samancıoğlu | [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)                                                             |4 Ay           |Beginner | Serkan Alıç          |
 |TR  |🎥     |Atıl Samancıoğlu | [Android Testing: Unit Tests, Hilt, ViewModels and more!](https://www.udemy.com/course/android-testing/)                                                             |2 Ay           |Medium | Serkan Alıç          |  
+
+
 
 ## <a name="rm"></a> Android Roadmaps
 
