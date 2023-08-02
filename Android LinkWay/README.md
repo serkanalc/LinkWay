@@ -7,7 +7,6 @@ This repository is specifically curated to support Android developers at every s
 [📌  Code of Content](#cc) <br>
 [📌  What's News](#ne) <br>
 [📌  Kotlin First](#kf) <br>
-[📌  Jetpack Compose](#jc) <br>
 [📌  Sample Project](#sp) <br>
 [📌  Android Courses](#co) <br>
 [📌  Android Roadmaps](#rm) <br>
