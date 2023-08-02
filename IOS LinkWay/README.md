@@ -1,6 +1,6 @@
 # IOS Development LinkWay
 
-Welcome to the Android Development LinkWay ✨
+Welcome to the IOS Development LinkWay ✨
 
 This bibliography offers a comprehensive and authoritative collection of resources, including meticulously compiled books, articles, and online courses, to guide everyone from beginners to experienced programmers in effectively learning and mastering the Swift coding language.Check it!
 
