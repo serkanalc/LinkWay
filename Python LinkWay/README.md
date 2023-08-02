@@ -1,4 +1,4 @@
-# IOS Development LinkWay
+# Python Development LinkWay
 
 Welcome to the Android Development LinkWay ✨
 
