@@ -33,6 +33,11 @@ While examining the content, who is responsible for these contents and who recom
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |👤     |Youtube | [Sean Allen Youtube Channel](https://www.youtube.com/@seanallen)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |👤     |Youtube | [iOS Academy Youtube Channel](https://www.youtube.com/@iOSAcademy)                                                        |∞        |All Level  | Sezgin Çiftçi          |
+|EN  |👤     |Youtube | [Rebeloper - Rebel Developer Youtube Channel](https://www.youtube.com/@rebeloper)                                                        |∞        |All Level  | Sezgin Çiftçi          |
+|EN  |👤     |Youtube | [Mohammad Azam Youtube Channel](https://www.youtube.com/@azamsharp)                                                        |∞        |All Level  | Sezgin Çiftçi          |
+|EN  |👤     |Youtube | [Swiftful Thinking Youtube Channel](https://www.youtube.com/@SwiftfulThinking)                                                        |∞        |All Level  | Sezgin Çiftçi          |
+|EN  |👤     |Youtube | [CodeWithChris Youtube Channel](https://www.youtube.com/@CodeWithChris)                                                        |∞        |All Level  | Sezgin Çiftçi          |
 |TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
 
 ## <a name="sl"></a> Swift Lang
@@ -55,5 +60,4 @@ While examining the content, who is responsible for these contents and who recom
 |TR  |🎥     |Kasım Adalan | [IOS Mobil Uygulama Geliştirme Eğitimi - Swift](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)   |3 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Atıl Samancıoğlu | [iOS 16 & Swift 5: Başlangıçtan İleri Seviyeye](https://www.udemy.com/course/ios-gelistirme-kursu/)   |3 Months        |Beginner  | Serkan Alıç          |
 
-https://www.hackingwithswift.com/100
 
