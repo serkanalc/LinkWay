@@ -50,9 +50,10 @@ While examining the content, who is responsible for these contents and who recom
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Sean Allen | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Sean Allen | [Swift Programming Tutorial - FULL COURSE - Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)                                                        |15 Hour        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Paul Hudson | [100 Days of Swift](https://www.hackingwithswift.com/100)                                                        |25 Hour        |Beginner  | Sezgin Çiftçi          |
 |EN  |🎥     |Dr. Angela Yu | [IOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)   |3 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Kasım Adalan | [IOS Mobil Uygulama Geliştirme Eğitimi - Swift](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)   |3 Months        |Beginner  | Serkan Alıç          |
 |TR  |🎥     |Atıl Samancıoğlu | [iOS 16 & Swift 5: Başlangıçtan İleri Seviyeye](https://www.udemy.com/course/ios-gelistirme-kursu/)   |3 Months        |Beginner  | Serkan Alıç          |
 
-
+https://www.hackingwithswift.com/100
 
