@@ -23,3 +23,9 @@ These contents are independent of the curriculum but are contents recommended to
 The estimated times you need to allocate and repeat while following the sources are indicated next to them. These times may vary from person to person!
 
 While examining the content, who is responsible for these contents and who recommends you to read is stated in the responsible part, if you encounter any difficulty or error, please contact the relevant person.
+
+## <a name="ne"></a> News
+
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|TR  |📑     |Userspots | [Figma'nın Öne Çıkan Yeni Özellikleri](https://www.userspots.com/ekipten/figmanin-one-cikan-yeni-ozellikleri)                                                        |30 Mins        |All Level  | Gizem Şahin          |
