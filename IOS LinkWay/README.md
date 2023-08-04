@@ -7,6 +7,7 @@ This bibliography offers a comprehensive and authoritative collection of resourc
 [📌  Code of Content](#cc) <br>
 [📌  Profile Or Channels](#ne) <br>
 [📌  Swift Lang](#sl) <br>
+[📌  Sample Project](#sp) <br>
 [📌  IOS Courses](#co) <br>
 
 ## <a name="cc"></a>Code of Content
@@ -48,6 +49,12 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Apple | [The Swift Programming Language - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)   |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Apple | [Swift Language - Apple Developer](https://developer.apple.com/swift/)   |∞        |All Level  | Serkan Alıç          |
 |EN  |🎥     |Apple | [Swift in 100 Seconds from Fireship](https://www.youtube.com/watch?v=nAchMctX4YA&ab_channel=Fireship)   |10 Min        |All Level  | Serkan Alıç          |
+
+## <a name="sp"></a> Sample Project
+                                                   
+|Lang|Type  |Resource Owner |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Yusuf Demirci | [ExampleProjectIdeas](https://github.com/meyusufdemirci/ExampleProjectIdeas)                                                        |∞         |Beginner  | Serkan Alıç          |
 
 ## <a name="co"></a> IOS Courses
 
