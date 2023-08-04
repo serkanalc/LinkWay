@@ -1,4 +1,4 @@
-# LinkWay | *No Code Just Resource*
+# LinkWay | *No Code, Just Resource!*
 
 ![ZvhbSK](https://github.com/serkanalc/LinkWay/assets/70329389/b332b684-b644-4d41-95d3-7795f3dd9dee)
 
