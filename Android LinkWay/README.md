@@ -49,12 +49,14 @@ While examining the content, who is responsible for these contents and who recom
 
 |Lang|Type  |Resource Platform |         Resource Name          |  Estimated Times |Challenge Level |Responsible |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
-|EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
-|TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |👤     |Github | [Jaewoong Eum Github Profile And Repos](https://github.com/skydoves)                                                        |∞        |All Level  | Serkan Alıç          |
+|EN  |👤     |Youtube | [Philipp Lackner Youtube Channel](https://www.youtube.com/@PhilippLackner/featured)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |👤     |Youtube | [Stevdza-San Youtube Channel](https://www.youtube.com/@StevdzaSan)                                         |∞        |All Level  | Caner Türe          |
 |EN  |👤     |Youtube | [Kotlin by JetBrains Youtube Channel](https://www.youtube.com/@Kotlin)                                     |∞        |All Level  | Caner Türe          |
 |EN  |👤     |Youtube | [Android Developers Youtube Channel](https://www.youtube.com/@AndroidDevelopers/videos)                   |∞        |All Level  | Caner Türe          |
+|EN  |👤     |Medium | [Florina Muntenescu Medium Page](https://medium.com/@florina.muntenescu)                   |∞        |All Level  | Serkan Alıç          |
+|EN  |👤     |Medium | [Android Developers Medium Page](https://medium.com/androiddevelopers)                   |∞        |All Level  | Serkan Alıç          |
+|TR  |👤     |Youtube | [Kasım Adalan Youtube Channel](https://www.youtube.com/@kasimadalan)                                                        |∞        |All Level  | Serkan Alıç          |
 
 
 ## <a name="kf"></a> Kotlin First
@@ -63,7 +65,9 @@ While examining the content, who is responsible for these contents and who recom
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Google | [Android News](https://developer.android.com/news)                                                        |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Google | [Enabling New Blockchain-Based Experiences on Play Store](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)   |30 Min        |All Level  | Serkan Alıç          |
+|EN  |📑     |Florina Muntenescu | [Should I learn Kotlin for Android and other FAQs](https://medium.com/androiddevelopers/should-i-learn-kotlin-for-android-and-other-faqs-88a2bb281a60)   |10 Mins        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Google | [Building a Kotlin extensions library](https://developer.android.com/codelabs/building-kotlin-extensions-library#0)   |1 Months        |Medium  | Serkan Alıç          |
+|EN  |📑     |Florina Muntenescu | [Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)   |10 Mins        |Beginner  | Serkan Alıç          |
 |EN  |📝     |W3School | [Kotlin Quiz](https://www.w3schools.com/kotlin/kotlin_quiz.php)                                                        |1 Hour        |All Level  | Serkan Alıç          |
 |EN  |📝     |Kotlin | [Why Teach Kotlin](https://kotlinlang.org/education/why-teach-kotlin.html)                                                        |1 Hour        |All Level  | Serkan Alıç          |
 
