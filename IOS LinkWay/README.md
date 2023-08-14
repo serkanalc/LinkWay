@@ -49,6 +49,8 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Apple | [The Swift Programming Language - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)   |∞        |All Level  | Serkan Alıç          |
 |EN  |📑     |Apple | [Swift Language - Apple Developer](https://developer.apple.com/swift/)   |∞        |All Level  | Serkan Alıç          |
 |EN  |🎥     |Apple | [Swift in 100 Seconds from Fireship](https://www.youtube.com/watch?v=nAchMctX4YA&ab_channel=Fireship)   |10 Min        |All Level  | Serkan Alıç          |
+|EN  |📝     |The Algorithms | [The Algorithms, Swift](https://the-algorithms.com/tr/language/swift)                                                        |∞       |All Level  | Serkan Alıç          |
+
 
 ## <a name="sp"></a> Sample Project
                                                    
