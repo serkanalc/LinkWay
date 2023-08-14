@@ -70,6 +70,7 @@ While examining the content, who is responsible for these contents and who recom
 |EN  |📑     |Florina Muntenescu | [Data classes — the classy way to hold data](https://medium.com/androiddevelopers/data-classes-the-classy-way-to-hold-data-ab3b11ea4939)   |10 Mins        |Beginner  | Serkan Alıç          |
 |EN  |📝     |W3School | [Kotlin Quiz](https://www.w3schools.com/kotlin/kotlin_quiz.php)                                                        |1 Hour        |All Level  | Serkan Alıç          |
 |EN  |📝     |Kotlin | [Why Teach Kotlin](https://kotlinlang.org/education/why-teach-kotlin.html)                                                        |1 Hour        |All Level  | Serkan Alıç          |
+|EN  |📝     |The Algorithms | [The Algorithms, Kotlin](https://the-algorithms.com/tr/language/kotlin)                                                        |∞       |All Level  | Serkan Alıç          |
 
 
 ## <a name="cr"></a> Coroutines
